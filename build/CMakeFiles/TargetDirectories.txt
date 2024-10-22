@@ -1,0 +1,3 @@
+/home/nyatto/Projects/ls-cmake/build/CMakeFiles/a.out.dir
+/home/nyatto/Projects/ls-cmake/build/CMakeFiles/edit_cache.dir
+/home/nyatto/Projects/ls-cmake/build/CMakeFiles/rebuild_cache.dir

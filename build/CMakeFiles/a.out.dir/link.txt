@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/a.out.dir/main.c.o CMakeFiles/a.out.dir/directory.c.o CMakeFiles/a.out.dir/file_info.c.o CMakeFiles/a.out.dir/sort.c.o -o bin/a.out 
